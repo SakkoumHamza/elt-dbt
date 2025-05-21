@@ -10,7 +10,7 @@ This project demonstrates a simple ELT (Extract, Load, Transform) pipeline built
 ## 📁 Project Structure
 ```bash
 
-├── first_elt/ # DBT project (models, seeds, etc.)
+├── airbnb_elt/ # DBT project (models, seeds, etc.)
 ├── data/ # Raw Airbnb dataset (CSV format)
 ├── load_csv_to_postgres.py # Python script to load CSV data
 ├── dbt_project.yml # DBT config file
