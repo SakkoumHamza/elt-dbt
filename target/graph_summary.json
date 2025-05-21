@@ -1,0 +1,1 @@
+{"_invocation_id": "cabfdc8b-1631-4cfb-867d-b53578be1596", "linked": {"0": {"name": "model.first_elt.airbnb_data", "type": "model", "succ": [1]}, "1": {"name": "model.first_elt.airbnb_transformed", "type": "model"}}}

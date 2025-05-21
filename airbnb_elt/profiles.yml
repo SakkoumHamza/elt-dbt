@@ -1,0 +1,12 @@
+airbnb_elt:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost            # or your DB host
+      user: postgres       # your PostgreSQL username
+      password: ''    # your PostgreSQL password
+      port: 5432
+      dbname: airbnb      # name of your PostgreSQL DB
+      schema: public             # or another schema if you use one
+      threads: 1
